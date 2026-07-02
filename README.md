@@ -22,7 +22,7 @@ mcpServers
     "zqcc": {
       "url": "https://zqcc.mkstone.club/mcp/stream",
       "headers": {
-        "Authorization": "Bearer zqcc_omq0djElJJ3Z0472agwbUbL6nqOMsSPc"
+        "Authorization": "Bearer zqcc的APPKEY"
       }
     }
   }
@@ -34,7 +34,7 @@ streamable_http
   "transport": "streamable_http",
   "url": "https://zqcc.mkstone.club/mcp/stream",
   "headers": {
-    "Authorization": "Bearer zqcc_omq0djElJJ3Z0472agwbUbL6nqOMsSPc"
+    "Authorization": "Bearer zqcc的APPKEY"
   },
   "timeout": 300,
   "request_timeout": 300,
